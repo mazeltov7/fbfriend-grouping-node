@@ -1,0 +1,22 @@
+{
+  "name": "fbfriend-grouping-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazeltov7/fbfriend-grouping-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazeltov7/fbfriend-grouping-node/issues"
+  },
+  "homepage": "https://github.com/mazeltov7/fbfriend-grouping-node#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
